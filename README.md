@@ -1,4 +1,4 @@
-# Hi, I'm Burak <img src="https://burakgur.com/static/img/waving.gif" alt="Burak Gür" width="36" height="36">
+# Hi, I'm Burak <img src="https://burakgur.com/static/img/waving.gif" alt="Burak Gür" width="30" height="30">
 
 I'm a developer, designer, minimalist and brand geek. I'm Front-end Developer of Martian Digital. 
 
